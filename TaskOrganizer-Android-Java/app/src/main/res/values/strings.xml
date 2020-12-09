@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Business Expense Tracking</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="StringWarning">Username can\'t contain Special characters!\r\n
+        Username can\'t be longer than 20 characters!\r\n
+        Username can be upper or lower case characters or numbers!\r\n
+    </string>
+    <string name="btnReset">RESET GAME</string>
+    <string name="title">User Vs. User</string>
+    <string name="btnSignIn">Sign In</string>
+    <string name="userName">User Name</string>
+    <string name="passWord">Pass Word</string>
+    <string name="newUser">Click here to create new account!</string>
+    <string name="or">OR</string>
+    <string name="createAccount">Guest Log In</string>
+    <string name="help">Get HELP !!!</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be more than5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="view">"View the list"</string>
+    <string name="editView">"Edit or Delete"</string>
+    <string name="chartView">"View the Chart"</string>
+    <string name="add_item">Add Item</string>
+    <string name="search">Search</string>
+    <string name="display_here"> </string>
+</resources>

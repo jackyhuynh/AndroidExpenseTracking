@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/blue">
+    <LinearLayout
+        android:id="@+id/frame1"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:weightSum="100"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/Search_item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="78dp"
+            android:ems="10"
+            android:hint="Enter Item"
+            android:inputType="textPersonName"
+            android:textAlignment="center" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:weightSum="100"
+        android:layout_below="@+id/frame1">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/search"
+            android:id="@+id/btnSearch"/>
+
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/SearchReturn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="220dp"
+        android:gravity="center_horizontal"
+        android:text="@string/display_here"
+        android:textColor="@color/cardview_dark_background"
+        android:textSize="24sp" />
+
+
+</RelativeLayout>
