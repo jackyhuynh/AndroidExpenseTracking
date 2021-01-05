@@ -1,9 +1,9 @@
 # Expense Tracking (Mobile App)
 The mobile expense tracking is build with Android Studio and Java. The app feature with password complexity and encryption. The app also allow multiple user get access to the resource with the right user name and password. Its function is fairly simple, Expense Tracking allow user to enter their expense in that month. User can add item to the app and track how much and what they spend on that month. The app use SQLite as its database. and content is stored directly in the phone.
 
-![alt]()
+![alt](https://github.com/jackyhuynh/MobileExpenseTracking/blob/main/src/picture/Index.PNG)
 
-- Please refer to the list of app's function [here](https://github.com/jackyhuynh/AndroidTaskOrganizer/blob/main/src/TaskOrganizer-Report.pdf)
+- Please refer to the list of app's function [here](https://github.com/jackyhuynh/AndroidTaskOrganizer/blob/main/src/TaskOrganizer-Report.pdf).
 
 ## Technology:
 - Java
@@ -41,7 +41,10 @@ Explain how to run the automated tests for this system:
 - Click Build Project
 - Tested complete successfully.
 
+![alt](https://github.com/jackyhuynh/MobileExpenseTracking/blob/main/src/picture/password.PNG)
+
 - Please clik [here](https://github.com/jackyhuynh/AndroidTaskOrganizer/blob/main/src/TaskOrganizer-Report.pdf) to see the full test.
+
 ## Deployment
 
 Deploy through Google Store and install in any Android Devices
