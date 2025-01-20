@@ -30,7 +30,7 @@ dependencies {
     implementation 'com.android.support:recyclerview-v7:29.0.0'
     implementation 'com.android.support:cardview-v7:29.0.0'
     implementation 'com.github.mancj:MaterialSearchBar:+'
-    implementation 'androidx.room:room-runtime:2.1.0'
+    implementation 'androidx.room:room-runtime:2.6.1'
     annotationProcessor 'androidx.room:room-compiler:2.6.1'
     implementation 'org.jetbrains:annotations-java5:24.1.0'
 }
