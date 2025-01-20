@@ -32,5 +32,5 @@ dependencies {
     implementation 'com.github.mancj:MaterialSearchBar:+'
     implementation 'androidx.room:room-runtime:2.1.0'
     annotationProcessor 'androidx.room:room-compiler:2.6.1'
-    implementation 'org.jetbrains:annotations-java5:15.0'
+    implementation 'org.jetbrains:annotations-java5:24.1.0'
 }
